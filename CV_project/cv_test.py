@@ -27,7 +27,7 @@ while True:
         cv2.imshow('Camera', frame)
 
         # If the 'q' key is pressed, break the loop
-        if cv2.waitKey(100) & 0xFF == ord('q'):
+        if cv2.waitKey(1000) & 0xFF == ord('q'):
             break
     else:
         break
