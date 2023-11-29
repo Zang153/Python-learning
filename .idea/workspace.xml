@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0eb3a88b-83e0-443b-ad1f-8293ac88708b" name="Changes" comment="learning stop point">
+      <change afterPath="$PROJECT_DIR$/Python learning book 1 /Alien_project/bullet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python learning book 1 /Alien_project/alien_invasion.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python learning book 1 /Alien_project/alien_invasion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python learning book 1 /Alien_project/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python learning book 1 /Alien_project/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python learning book 1 /Alien_project/ship.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python learning book 1 /Alien_project/ship.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2YfqVm6QQL6KNE2pTHYldo5XxWF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/yunxiaozang/Documents/GitHub/python-learning/Python learning book 1 /Alien_project",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Python learning book 1 /Alien_project" />
+      <recent name="$PROJECT_DIR$/Python learning book 1 /Python Book1" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="alien_invasion" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python learning book 1 /Alien_project" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python learning book 1 /Alien_project/alien_invasion.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.alien_invasion" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0eb3a88b-83e0-443b-ad1f-8293ac88708b" name="Changes" comment="" />
+      <created>1700927007648</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1700927007648</updated>
+      <workItem from="1700927009050" duration="19600000" />
+    </task>
+    <task id="LOCAL-00001" summary="add python tutorial">
+      <created>1700927635034</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1700927635034</updated>
+    </task>
+    <task id="LOCAL-00002" summary="learning">
+      <created>1701170153209</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1701170153209</updated>
+    </task>
+    <task id="LOCAL-00003" summary="learning">
+      <created>1701197849447</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1701197849447</updated>
+    </task>
+    <task id="LOCAL-00004" summary="learning">
+      <created>1701198310842</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1701198310842</updated>
+    </task>
+    <task id="LOCAL-00005" summary="learning">
+      <created>1701240997065</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1701240997065</updated>
+    </task>
+    <task id="LOCAL-00006" summary="learning">
+      <created>1701241832461</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1701241832461</updated>
+    </task>
+    <task id="LOCAL-00007" summary="learning stop point">
+      <created>1701242932154</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1701242932154</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add python tutorial" />
+    <MESSAGE value="learning" />
+    <MESSAGE value="learning stop point" />
+    <option name="LAST_COMMIT_MESSAGE" value="learning stop point" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/python_learning$test_insert_function.coverage" NAME="test_insert_function Coverage Results" MODIFIED="1701173842770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python learning book 1 /Chapter 3" />
+    <SUITE FILE_PATH="coverage/python_learning$full_name.coverage" NAME="full_name Coverage Results" MODIFIED="1700929785206" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python learning book 1 /Python Book1/Codefrombook/chapter_02" />
+    <SUITE FILE_PATH="coverage/python_learning$alien_invasion.coverage" NAME="alien_invasion Coverage Results" MODIFIED="1701248559589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python learning book 1 /Alien_project" />
+    <SUITE FILE_PATH="coverage/python_learning$test_while.coverage" NAME="test_while Coverage Results" MODIFIED="1701186798652" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python learning book 1 /Chapter 4" />
+  </component>
+</project>
