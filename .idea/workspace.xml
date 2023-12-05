@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0eb3a88b-83e0-443b-ad1f-8293ac88708b" name="Changes" comment="learning stop point" />
+    <list default="true" id="0eb3a88b-83e0-443b-ad1f-8293ac88708b" name="Changes" comment="learning stop point">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,6 +74,8 @@
       <option name="presentableId" value="Default" />
       <updated>1700927007648</updated>
       <workItem from="1700927009050" duration="38486000" />
+      <workItem from="1701537386481" duration="464000" />
+      <workItem from="1701539885509" duration="287000" />
     </task>
     <task id="LOCAL-00001" summary="add python tutorial">
       <created>1700927635034</created>
